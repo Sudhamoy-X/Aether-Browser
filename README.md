@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="1000432221" src="https://github.com/user-attachments/assets/c445b23b-aa37-4dba-8cde-c2dbe8a01cb7" />
 # Aether Browser
 
 A modern Android browser focused on a clean browsing experience, useful browsing tools, and user control.
