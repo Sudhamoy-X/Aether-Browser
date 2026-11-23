@@ -5,9 +5,8 @@ A modern Android browser focused on a clean browsing experience, useful browsing
 
 ## Release
 
-The latest planned release is **Aether Browser v3.0.0**.
+The latest planned release
 
-- Release tag: `v3.0.0`
 - Platform: Android
 - Package format: APK
 
